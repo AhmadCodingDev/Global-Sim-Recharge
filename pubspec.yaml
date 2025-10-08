@@ -1,0 +1,128 @@
+name: esim_ui8
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+    intl: ^0.20.2  # Or latest
+    flutter_screenutil: ^5.7.0
+    flutter_svg: ^2.0.7
+    auto_size_text: ^3.0.0
+    google_fonts: ^6.1.0
+    go_router: ^14.0.4
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/background_1.png
+    - assets/images/background_2.png
+    - assets/images/Untitled_11.png
+    - assets/images/modal.png
+    - assets/images/woman.png
+    - assets/images/Mobile.svg
+    - assets/images/User.svg
+    - assets/images/Message.svg
+    - assets/images/password.svg
+    - assets/images/google.svg
+    - assets/images/model.png
+    - assets/images/profile.svg
+    - assets/images/country.png
+    - assets/images/flags/united_kingdom.svg
+    - assets/images/flags/argentina.svg
+    - assets/images/flags/japan.svg
+    - assets/images/flags/brazil.svg
+    - assets/images/Home.svg
+    - assets/images/Movie.svg
+    - assets/images/wallet.svg
+    - assets/images/country.svg
+    - assets/images/down_arrow.svg
+    - assets/images/logo1.png
+    - assets/images/logo2.png
+    - assets/images/logo3.png
+    - assets/images/logo4.png
+    - assets/images/logo5.png
+    - assets/images/logo6.png
+    - assets/images/item_1.png
+    - assets/images/item_2.png
+    - assets/images/item_3.png
+    - assets/images/item_4.png
+    - assets/images/item_5.png
+    - assets/images/I1.svg
+    - assets/images/I2.svg
+    - assets/images/I3.svg
+    - assets/images/I4.svg
+    - assets/images/I5.svg
+    - assets/images/I6.svg
+    - assets/images/I7.svg
+    - assets/images/I8.svg
+    - assets/images/I9.svg
+    - assets/images/I10.svg
+    - assets/images/I11.svg
+    - assets/images/I12.svg
+    - assets/images/I13.svg
+    - assets/images/india.svg
+    - assets/images/romania.svg
+    - assets/images/bahrain.svg
+    - assets/images/yemen.svg
+    - assets/images/sahrawi.svg
+    - assets/images/switzer.svg
+    - assets/images/Arrow_left.svg
+    - assets/images/info_1.svg
+    - assets/images/info_2.svg
+    - assets/images/info_3.svg
+    - assets/images/whatsapp.svg
+    - assets/images/facebook.svg
+    - assets/images/messenger.svg
+    - assets/images/copy.svg
+    - assets/images/percent.svg
+    - assets/images/wa.svg
+    - assets/images/message_2.svg
+    - assets/images/Search.svg
+    - assets/images/check.svg
+    - assets/images/Layer_1.png
+    - assets/images/Layer_2.png
+    - assets/images/Layer_4.png
+    - assets/images/Layer_7.png
+    - assets/images/Layer_8.png
+    - assets/images/mastercard.svg
+    - assets/images/arrow_1.svg
+    - assets/images/arrow_2.svg
+    - assets/images/arrow_right.svg
+    - assets/images/Vodaphone.png
+    - assets/images/Telstra.png
+    - assets/images/optus.png
+    - assets/images/archery.svg
+    - assets/images/qrcode.svg
+    - assets/images/info.svg
+    - assets/images/file.svg
+    - assets/images/msg.svg
+    - assets/images/warning.svg
+    - assets/images/iphone.png
+    - assets/images/start.svg
+    - assets/images/code.png
+    - assets/images/profile_54.png
+    - assets/images/profile_67.png
+    - assets/images/ellipse.svg
+
+
+fonts:
+  - family: Afacad
+    fonts:
+      - asset: assets/fonts/afacad-regular.ttf
+        weight: 400
